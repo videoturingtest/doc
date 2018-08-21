@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'vip-doc'
+project = 'vip'
 copyright = '2018, Sungjae Cho'
 author = 'Sungjae Cho'
 
