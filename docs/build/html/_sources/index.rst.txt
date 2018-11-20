@@ -9,6 +9,7 @@ Welcome to the Video Intelligence Platform documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   open_sw_guideline
 
 The Video intelligence Platform (VIP) is the software platform that can understand videos and answer questions about the given videos. The VIP was born initiailly to pass the Video Turing Test (VTT). This document describes how to use the VIP.
 
